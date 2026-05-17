@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "alpaca.aternos.host",
+    "ip": "lungfish.aternos.host",
     "port": 39733,
     "version": "1.20.1",
     "try-creative": false
